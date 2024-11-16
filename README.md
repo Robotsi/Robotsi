@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on university<br>🌱 I’m currently learning NextJs<br>👯 I’m looking to collaborate on open source web projects<br>📫 How to reach me: alperenemrekir52@gmail.com<br>⚡ Fun fact: Im an ADHD
+🔭 I’m currently studying at Ordu University<br>🌱 I’m currently learning NextJs<br>👯 I’m looking to collaborate on open source web projects<br>📫 How to reach me: alperenemrekir52@gmail.com<br>⚡ Fun fact: Im an ADHD
 
 
 ## 🌐 Socials:
