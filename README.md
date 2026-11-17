@@ -39,7 +39,8 @@ Full-Stack Software Developer specializing in **TypeScript**, **Node.js**, **Rea
 
 ### 📊 GitHub Activity
 
+### 📊 GitHub Activity
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robotsi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotsi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Robotsi&theme=dark&hide_border=true" height="165" />
 </p>
